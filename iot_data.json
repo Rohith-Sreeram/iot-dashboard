@@ -1,0 +1,11 @@
+{
+    "people_entered": 0,
+    "people_left": 0,
+    "people_present": 0,
+    "refresh_values": {
+        "entered": 0,
+        "left": 0,
+        "present": 0,
+        "pending": false
+    }
+}
